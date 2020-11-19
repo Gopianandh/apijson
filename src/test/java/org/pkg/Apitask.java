@@ -50,7 +50,7 @@ public static void main(String[] args) throws IOException, ParseException {
 	Object object2 = jSa.get(2);
 	
 	JSONObject json = (JSONObject)object2;
-	System.out.println(json.get("first_name").toString());
+	System.out.println(json.get("first_nae").toString());
 	
 	
 	
@@ -62,8 +62,7 @@ public static void main(String[] args) throws IOException, ParseException {
 	
 	
 	
-	
-	
+System.out.println("modigied");	
 	
 	
 	

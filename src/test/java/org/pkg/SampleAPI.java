@@ -19,6 +19,7 @@ public class SampleAPI {
 
 		String body = res.getBody().asString();
 		System.out.println(body);
+		System.out.println(" git code updated ");
 
 	}
 
